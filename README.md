@@ -1,6 +1,9 @@
 # Vending_Machine_Robbery
 Vending Machine Robbery
 
+Discord:-https://discord.gg/6Bwg9K2Xh7
+Tebex:- https://fivemmarketclub.tebex.io/package/5863849
+Website:- https://fivemmarketclub.com/product/parking-meter-robbery/
 
 Dependencies
     
